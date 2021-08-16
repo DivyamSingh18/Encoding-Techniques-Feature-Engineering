@@ -5,9 +5,9 @@
 
 * there are three kinds of categorical features-
 
-  ><b>Ordinal :</b> The categories have an inherent order <br>
-  ><b>Nominal :</b> The categories do not have an inherent order <br>
-  ><b>Binary :</b> The categories in the form of either/or FOR EXAMPLE: Yes/No type of data
+  ><b>Ordinal :</b> The categories have an inherent order. <br>
+  ><b>Nominal :</b> The categories do not have an inherent order. <br>
+  ><b>Binary :</b> The categories in the form of either/or. FOR EXAMPLE: Yes/No type of data
  
 * basic types of encoding techniques are:
 
