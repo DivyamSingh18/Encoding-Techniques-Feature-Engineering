@@ -9,6 +9,7 @@
   >Nominal Data: The categories do not have an inherent order
  
 * basic types of encoding techniques are:
+
    ![basic Encoding](https://user-images.githubusercontent.com/64833579/129566220-b2dcbf31-4151-4389-9e4e-87115c6ac214.png)
 
 
