@@ -5,7 +5,7 @@
 
 * there are two kinds of categorical data-
 
-  >Ordinal Data: The categories have an inherent order
+  >Ordinal Data: The categories have an inherent order <br>
   >Nominal Data: The categories do not have an inherent order
  
 * basic types of encoding techniques are:
