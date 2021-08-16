@@ -3,10 +3,11 @@
 * The performance of a machine learning model not only depends on the model and the hyperparameters but also on how we process and feed different types of   variables to the model. Since most machine learning models only accept numerical variables, preprocessing the categorical variables becomes a necessary     step. We need to convert these categorical variables to numbers so that the model is able to understand and extract valuable information.
 
 
-* there are two kinds of categorical data-
+* there are three kinds of categorical data-
 
   ><b>Ordinal Data:</b> The categories have an inherent order <br>
   ><b>Nominal Data:</b> The categories do not have an inherent order
+  ><b>Binary Data:</b> The categories in the form of either or FOR EXAMPLE: Yes/No type of data
  
 * basic types of encoding techniques are:
 
